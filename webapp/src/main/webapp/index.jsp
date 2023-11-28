@@ -64,7 +64,7 @@
         <p>Mr. Rajinikanth Vadla is an experienced trainer in the fields of:</p>
         <ul>
             <li><span class="highlight">DevOps</span></li>
-            <li><span class="highlight">Cloud Computing (AWS, Azure, GCP)</span></li>
+            <li><span class="highlight">Cloud Computing (AWS, Azure, GCP,VM-WARE)</span></li>
             <li><span class="highlight">ML-Ops</span></li>
             <li><span class="highlight">AI-Ops</span></li>
         </ul>
