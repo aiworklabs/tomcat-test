@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trainer Profile - Rajinikanth Vadla</title>
+    <title>Trainer Profile - Rajinikanth Vadla-This is for bamboo-tool</title>
     <style>
         body {
             background-color: #1abc9c;
